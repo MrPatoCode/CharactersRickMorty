@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Kiwi_Green">#88e23b</color>
+    <color name="Texas">#ebe480</color>
+    <color name="Tardis_Blue">#043c6e</color>
+    <color name="Endo">#60a85f</color>
+    <color name="Mystery">#a6cccc</color>
+    <color name="Calla_Green">#6b7132</color>
+    <color name="Red">#E23B3B</color>
+</resources>
